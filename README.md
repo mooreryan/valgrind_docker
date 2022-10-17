@@ -4,7 +4,7 @@ A simple Docker image with Valgrind and the essential build tools like `gcc`, `m
 
 ## Test files
 
-To play around with the examples, you can use the `Makefile` and the stuff in `test_files`.  See below.
+To play around with the examples, you can use the `Makefile` and the stuff in `test_files`. See below.
 
 ## Run it
 
@@ -86,3 +86,14 @@ $ make apple_valgrind
 ```
 
 That's it!
+
+## License
+
+<a rel="license"
+     href="http://creativecommons.org/publicdomain/zero/1.0/">
+<img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+</a>
+
+To the extent possible under law, Ryan M. Moore has waived all copyright and related or neighboring rights to this project.
+
+_If for whatever reason, CC0 will not work for your project, you may use MIT or the Unlicense._
