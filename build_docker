@@ -1,8 +1,0 @@
-#!/bin/bash
-
-img=valgrind
-
-docker build -t "$img" .
-docker tag "$img" mooreryan/"$img"
-docker login
-docker push mooreryan/"$img"
